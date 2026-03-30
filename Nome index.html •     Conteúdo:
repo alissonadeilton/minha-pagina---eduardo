@@ -5,7 +5,11 @@
     <title>Minha Página</title>  <h2>Sobre Mim</h2>
         <p>Meu nome é [Eduardo] e sou estudante de desenvolvimento.</p>
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">4.
+Mensagem: fix: página temporária de manutenção
+5.    Commit changes
+Parte C – Revertendo o Desastre
+
 </head>
 <body>
     <h1>Bem-vindo!</h1>
